@@ -1,0 +1,41 @@
+body{
+   background-color: palevioletred;
+}
+.image-profile{
+ padding-inline:  40px;
+width: 200px;
+height: 350px;
+margin: auto;
+
+}
+
+      
+       
+   
+
+
+#titulo{
+ padding-left: 300px;
+}
+
+#subtitulo{
+    text-align: center;
+   }
+
+   #titulosinfo{
+    text-align: center;
+   }
+
+.centrado{
+    border: pink 2px solid;
+    width: 400px;
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    background-color: bisque;
+}
+.info{
+    text-align: center;
+  
+}
+
